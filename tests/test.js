@@ -20,4 +20,9 @@ describe('Obiekt car', () => {
     expect(typeof car.led).toBe('boolean');
     expect(car.led).toBeTruthy();
   });
+
+  it('powinien posiadać pole "numbers" o wartości [1,2,3]', async () => {
+    expect(Array.isArray(car.numbers)).toBeTruthy();
+    expect(car.numbers).toEqual([1,2,3]);
+  });
 });

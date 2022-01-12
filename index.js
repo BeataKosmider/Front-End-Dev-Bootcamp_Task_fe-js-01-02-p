@@ -1,5 +1,4 @@
 // Zaimplementuj zadanie zgodnie z wytycznymi
-
-let car;
+const car = {};
 
 module.exports = car;
