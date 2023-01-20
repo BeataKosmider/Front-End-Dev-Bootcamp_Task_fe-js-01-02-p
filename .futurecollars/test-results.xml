@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="0.085">
+  <testsuite name="Obiekt car" errors="0" failures="0" skipped="5" timestamp="2023-01-20T13:50:38" time="0.075" tests="5">
+    <testcase classname="Obiekt car powinien posiadać pole &quot;name&quot; o wartości &quot;Toyota Yaris&quot;" name="Obiekt car powinien posiadać pole &quot;name&quot; o wartości &quot;Toyota Yaris&quot;" time="0.001">
+      <skipped/>
+    </testcase>
+    <testcase classname="Obiekt car powinien posiadać pole &quot;price&quot; o wartości 50000" name="Obiekt car powinien posiadać pole &quot;price&quot; o wartości 50000" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Obiekt car powinien posiadać pole &quot;color&quot; o wartości &quot;blue&quot;" name="Obiekt car powinien posiadać pole &quot;color&quot; o wartości &quot;blue&quot;" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Obiekt car powinien posiadać pole &quot;led&quot; będące prawdą logiczną" name="Obiekt car powinien posiadać pole &quot;led&quot; będące prawdą logiczną" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Obiekt car powinien posiadać pole &quot;numbers&quot; o wartości [1,2,3]" name="Obiekt car powinien posiadać pole &quot;numbers&quot; o wartości [1,2,3]" time="0">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>
